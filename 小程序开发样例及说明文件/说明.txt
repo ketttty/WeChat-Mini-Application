@@ -1,0 +1,4 @@
+1、微信小程序连接bmob后端云的开发文档网址：
+http://doc.bmobapp.com/data/wechat_app_new/index.html#_33
+2、小程序功能开发的样例中，包含坐标正算、坐标反算、图根导线测站误差计算（一测回）、四等水准测站误差计算。
+3、小程序连接bmob云数据库的Bmob-1.7.1.min.js文件，在小程序工程项目miniprogram-10\miniprogram\utils路径下。

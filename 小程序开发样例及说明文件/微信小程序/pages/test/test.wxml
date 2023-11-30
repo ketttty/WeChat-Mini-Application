@@ -1,0 +1,15 @@
+<view style="margin-top: 150rpx;">
+<label>坐标A(X1)：</label>
+<input bindinput="anglex" placeholder="请输入X1" type="digit" ></input>
+<label>坐标A(Y1)：</label>
+<input bindinput="angley" placeholder="请输入Y1" type="digit" ></input>
+<label>坐标B(X2)：</label>
+<input bindinput="anglexx" placeholder="请输入X2" type="digit" ></input>
+<label>坐标B(Y2)：</label>
+<input bindinput="angleyy" placeholder="请输入Y2" type="digit" ></input>
+<label>距离：</label>
+<view >{{r}}</view>
+<label>坐标方位角：</label>
+<view >{{result}}</view>
+<button bindtap="adddata" >计算</button>
+</view>
